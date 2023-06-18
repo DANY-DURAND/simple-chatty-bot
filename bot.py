@@ -34,7 +34,7 @@ def count():
 def test():
     print("Let's test your programming knowledge.")
     # write your code here
-    print('Completed, have a nice day!')
+    methods_questions()
 
 
 def methods_questions():
@@ -62,4 +62,4 @@ remind_name()
 guess_age()
 count()
 # ...
-methods_questions()
+test()
